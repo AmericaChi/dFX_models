@@ -19,6 +19,7 @@ They correspond to the numbered models in the figure as follows:
 
 | Model folder || Task                          
 |--------------||-------------------------------
+
 | `model_1`    || Folding ΔΔG (singles)         
 | `model_2`    || Binding ΔΔG (singles)         
 | `model_3`    || Binding ΔΔG (doubles)         
