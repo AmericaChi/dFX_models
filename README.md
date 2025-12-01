@@ -1,3 +1,7 @@
+Data for the study "Leveraging neural networks to correct FoldX free energy estimates"
+Authors: Jonathan E. Barnes, L. America Chi, Shubham Kumar Pandey, F. Marty Ytreberg and Jagdish Suresh Patel
+Early preprint:https://www.biorxiv.org/content/10.1101/2024.09.23.614615v1.full
+
 ## Models
 
 Trained models are stored in the folders:
