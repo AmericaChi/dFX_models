@@ -1,0 +1,14 @@
+{
+  "best_value": 1.2249249815940857,
+  "best_params": {
+    "layers": 4,
+    "width": 128,
+    "dropout": 0.0,
+    "batch_size": 64,
+    "loss": "huber",
+    "activation": "relu",
+    "max_lr": 0.0008260107741014783,
+    "weight_decay": 1.7848043973719601e-06,
+    "pct_start": 0.3457472294006061
+  }
+}

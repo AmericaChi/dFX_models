@@ -1,0 +1,13 @@
+{
+  "layers": 5,
+  "width": 512,
+  "dropout": 0.0,
+  "batch_size": 64,
+  "loss": "huber",
+  "activation": "gelu",
+  "max_lr": 0.000693551826700442,
+  "weight_decay": 0.00013565072298433697,
+  "pct_start": 0.261860150095042,
+  "epochs": 400,
+  "patience": 80
+}

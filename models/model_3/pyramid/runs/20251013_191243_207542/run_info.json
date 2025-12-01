@@ -1,0 +1,24 @@
+{
+  "run_id": "20251013_191243_207542",
+  "seed": 42,
+  "feature_cols": [
+    "BackHbond",
+    "SideHbond",
+    "Energy_VdW",
+    "Electro",
+    "Energy_vdwclash",
+    "energy_torsion",
+    "backbone_vdwclash",
+    "Entropy_sidec",
+    "Entropy_mainc",
+    "water bonds",
+    "helix dipole",
+    "kn electrostatic",
+    "Energy_Ionisation"
+  ],
+  "target_col": "diff",
+  "n_train": 571,
+  "n_test": 143,
+  "has_foldx": true,
+  "has_exp": true
+}

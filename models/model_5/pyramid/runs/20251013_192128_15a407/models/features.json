@@ -1,0 +1,17 @@
+{
+  "feature_cols": [
+    "BackHbond",
+    "SideHbond",
+    "Energy_VdW",
+    "Electro",
+    "Energy_vdwclash",
+    "energy_torsion",
+    "backbone_vdwclash",
+    "Entropy_sidec",
+    "Entropy_mainc",
+    "water bonds",
+    "helix dipole",
+    "kn electrostatic",
+    "Energy_Ionisation"
+  ]
+}
